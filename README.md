@@ -33,7 +33,7 @@ python3 scripts/tweet_crafter.py \
 No external Python packages required. Clone the repo and run directly:
 
 ```bash
-git clone https://github.com/RuneweaverStudios/tweet-crafter.git
+git clone https://github.com/austindixson/tweet-crafter.git
 cd tweet-crafter
 python3 scripts/tweet_crafter.py --help
 ```

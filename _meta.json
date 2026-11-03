@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "displayName": "Tweet Crafter",
   "description": "Drafts engaging tweets in copy-paste friendly code blocks and generates companion blog posts for OpenClaw projects. Integrates with Agent Swarm for AI-powered content generation and enforces ClawHub link best practices.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "tags": [
     "twitter",
     "content-creation",
